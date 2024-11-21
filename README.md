@@ -9,7 +9,7 @@
 ## About me 🤓
 ###
 
-<p align="left">✨ Creating bugs since 2013<br>📚 I'm currently learning AI/ML and UI/UX<br>🎯 Goals: to become better at design<br>🎲 Fun fact: Rice fam 🍚 and also love 🍕</p>
+<p align="left">✨ Creating bugs since 2013<br>📚 I'm currently learning AI/ML,Data Visualization and UI/UX<br>🎯 Goals: to become better at design<br>🎲 Fun fact: Rice fam 🍚 and also love 🍕</p>
 
 ###
 
