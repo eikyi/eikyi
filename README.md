@@ -41,6 +41,9 @@ I'm a fullstack developer and Technical Business Analyst, from Au. Passionate ab
 
 ![Eikyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=eikyi&show_icons=true&theme=radical)
 
+
+Thanks for visiting my profile! Feel free to reach out if you want to connect or collaborate on a project.
+
 <!--
 **eikyi/eikyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
