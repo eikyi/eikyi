@@ -1,17 +1,26 @@
-## Hi there 👋
-###
 
-<p align="left">My name is Ei and I'm a fullstack developer and Technical Business Analyst, from Au. Passionate about automating things.</p>
+# Hi there, I'm Ei! 👋
 
-###
+I'm a fullstack developer and Technical Business Analyst, from Au. Passionate about automating things.
 
 
 ## About me 🤓
 ###
+## 🔭 What I'm Working On
 
-<p align="left">✨ Creating bugs since 2013<br>📚 I'm currently learning AI/ML,Data Visualization and UI/UX<br>🎯 Goals: to become better at design<br>🎲 Fun fact: Rice fam 🍚 and also love 🍕</p>
+- **Project 1:** A website for a collection of nice cafes for remote working 
+- **Project 2:** Data Analysis for a Steam Game Store data
 
-###
+## 🌱 What I'm Learning
+
+- **AI/ML:** Currently diving deep into this technology.
+- **Data Visualization:** Exploring and learning new frameworks and tools.
+
+## 👯 Looking to Collaborate
+
+- **Project Type:** Interested in collaborating on open source projects related to web development, data science, etc.
+- **Community Involvement:** Always open to join hackathons, coding challenges, and developer meetups.
+
 
 <h2 align="left">I code with 💻</h2>
 
@@ -23,6 +32,16 @@
 </p>
 
 ###
+
+## 📫 How to Reach Me
+
+- **Email:** [eikyizin@gmail.com](mailto:eikyizin@gmail.com)
+- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/eikyizin/)
+- 
+## 📈 GitHub Stats
+
+![Eikyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=eikyi&show_icons=true&theme=radical)
+
 <!--
 **eikyi/eikyi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
