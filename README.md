@@ -36,7 +36,7 @@ I'm a fullstack developer and Technical Business Analyst, from Au. Passionate ab
 
 - **Email:** [eikyizin@gmail.com](mailto:eikyizin@gmail.com)
 - **LinkedIn:** [linkedin.com/eikyizin](https://www.linkedin.com/in/eikyizin/)
-- 
+
 ## 📈 GitHub Stats
 
 ![Eikyi's GitHub stats](https://github-readme-stats.vercel.app/api?username=eikyi&show_icons=true&theme=radical)
