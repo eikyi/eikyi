@@ -35,7 +35,7 @@ I'm a fullstack developer and Technical Business Analyst, from Au. Passionate ab
 ## 📫 How to Reach Me
 
 - **Email:** [eikyizin@gmail.com](mailto:eikyizin@gmail.com)
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/eikyizin/)
+- **LinkedIn:** [linkedin.com/eikyizin](https://www.linkedin.com/in/eikyizin/)
 - 
 ## 📈 GitHub Stats
 
