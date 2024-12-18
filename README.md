@@ -5,11 +5,10 @@ I'm a fullstack developer and Technical Business Analyst, from Au. Passionate ab
 
 
 ## About me 🤓
-###
 ## 🔭 What I'm Working On
 
 - **Project 1:** A website for a collection of nice cafes for remote working 
-- **Project 2:** Data Analysis for a Steam Game Store data
+- **Project 2:** Data Analysis for the Steam Game Store data
 
 ## 🌱 What I'm Learning
 
